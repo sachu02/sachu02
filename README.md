@@ -1,8 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://sachin.io)
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">Web Developer</h3>
-<img align="right" alt="Coding" width="400" scr"https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDMwODg2YTFjYTJmNTk1ZTg4NjNlMTQ4MDdiODFlYmJiYzgzN2I4OSZjdD1z/lP8xu5t2DLGG045H8F/giphy.gif"
 
+<h3 align="center">Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin&label=Profile%20views&color=0e75b6&style=flat" alt="sachin" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
